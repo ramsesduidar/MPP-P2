@@ -1,0 +1,13 @@
+
+Executing with: N = 50 N_GEN = 300 TAM_POB = 5000 M_RATE = 0.3 NGM = 10 NEM = 1000
+Proceso 0 - fitness recibido: 13947.428164
+Proceso 0 - fitness actual: 16902.464155
+Proceso 0 - fitness recibido: 16106.798601
+Proceso 0 - fitness actual: 13947.428164
+Proceso 1 - Mejor fitness: 13947.428164
+Proceso 2 - Mejor fitness: 16106.798601
+Proceso 0 - fitness recibido: 17280.305148
+Proceso 0 - fitness actual: 13947.428164
+Proceso 0 - Mejor fitness: 13947.428164
+Proceso 3 - Mejor fitness: 17280.305148
+Execution Time: 2.56 sec

@@ -1,0 +1,6 @@
+
+Executing with: N = 50 N_GEN = 300 TAM_POB = 5000 M_RATE = 0.3
+Execution Time: 5.13 sec
+
+Executing with: N = 50 N_GEN = 300 TAM_POB = 5000 M_RATE = 0.3
+Execution Time: 5.13 sec

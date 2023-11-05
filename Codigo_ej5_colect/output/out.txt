@@ -1,0 +1,6 @@
+
+Executing with: N = 50 N_GEN = 300 TAM_POB = 5000 M_RATE = 0.3 NGM = 1 NEM = 1000
+Execution Time: 2.74 sec
+
+Solution: 0 15 2 28 7 35 21 3 31 29 39 38 20 36 11 23 16 24 19 9 37 22 8 49 14 25 46 5 17 6 45 27 40 42 26 33 12 43 1 30 47 18 13 32 48 44 34 41 4 10 
+Distance: 13436
